@@ -15,7 +15,7 @@ Need:
   Microsoft X box 360 Kinect sensor
   Mobile robot with differential drive
   
-
+  
 How to do:
 
 -Download .zip and unzip to a didectory called YourPath/uwu_bot
@@ -33,7 +33,7 @@ How to do:
   rviz vissualization
   mapping starts here
   
-
+  
 -This is the way the project works. Follow instructions and if you have issues, report them here.
 -Do not use serail monitor in arduino IDE, it will disconnect the serial node and the robot as well.
 -No "Serial.print()" commands in arduino sketch.
@@ -41,5 +41,7 @@ How to do:
 
 Final year research project of Mechatronics, Uva Wellassa University of Sri Lanka
 
+
 ///////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////
+
